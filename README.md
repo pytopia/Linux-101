@@ -1,4 +1,5 @@
 # Linux-101
+<img src="./images/logo.jpeg" alt="logo" width="400"/>
 
 This Linux 101 course covers the fundamentals of Operating Systems, Linux Fundamentals, Linux terminal, and Bash scripting.
 
